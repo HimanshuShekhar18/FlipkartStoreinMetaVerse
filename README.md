@@ -115,14 +115,3 @@ dcl start
 
 * We are even working on the *“camera enabling” feature* , where multiple users can *video chat* with each other ! 
 
-## Authors
-
-  > [Tanisha Bhadani](https://github.com/tanisha-bhadani)
-  
-  > [Rahul Verma](https://github.com/inexorable23)
-  
-  > [Saurabh Tripathi](https://github.com/st2251)
- 
-#### Made with perseverance and love by 
-#### Team We_Do_It_With_Cookies ❤️
-#### As a solution for Level-2 problem statement given by Flipkart in Flipkart GRID4.0 Hackathon Challenge
